@@ -3687,6 +3687,11 @@ input, select, textarea {
 
 /* Footer */
 
+	.footer-section {
+		align-self: center;
+		justify-self: center;
+	}
+
 	#footer {
 		display: -moz-flex;
 		display: -webkit-flex;
